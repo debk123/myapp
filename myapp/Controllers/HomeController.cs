@@ -10,7 +10,7 @@ namespace myapp.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.p = "helpprorerwewre";
+            ViewBag.p = "hel";
             return View();
         }
 
